@@ -1,19 +1,19 @@
 ---
 title: OSINT walkthrough
 date: 2025-05-23 +/-TTTT
-categories: [OSINT]
-tags: [open-source intel]     # TAG names should always be lowercase
+categories: [Walkthrough]
+tags: [osint]     # TAG names should always be lowercase
 ---
 
-Hey My Friend! 
+Hey My Friend! <br>
 This is my walkthrough for the OSINT task from Sofia Santos' website.
 
 Task briefing:
 The image below is a screenshot from a zoo live cam. It was taken on January 15, 2023 at around 2pm local time.
 Please answer the questions below:
 
-a, In which zoo are these polar bears located?
-b, What was the temperature at the time of the screenshot?
+a, In which zoo are these polar bears located?<br>
+b, What was the temperature at the time of the screenshot?<br>
 c, What were the exact coordinates of where the bears were lying down?
 
 ![img-description](../assets/img/1.png)
