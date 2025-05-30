@@ -1,3 +1,11 @@
+---
+title: Cyberdefender walkthrough - Black Basta lab
+date: 2025-05-30 +/-TTTT
+categories: [Walkthrough]
+tags: [threat hunting]     # TAG names should always be lowercase
+---
+
+
 ### Stage1: Initial access, downloaded files
 An employee downloaded a ZIP archive containing a malicious Excel file.
 
