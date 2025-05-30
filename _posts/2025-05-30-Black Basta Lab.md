@@ -2,7 +2,7 @@
 title: Cyberdefender walkthrough - Black Basta lab
 date: 2025-05-30 +/-TTTT
 categories: [Walkthrough]
-tags: [threat hunting]     # TAG names should always be lowercase
+tags: [threat_hunting]     # TAG names should always be lowercase
 ---
 
 
