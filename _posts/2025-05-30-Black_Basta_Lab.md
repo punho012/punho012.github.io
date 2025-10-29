@@ -218,3 +218,6 @@ index=* source="XmlWinEventLog:Microsoft-Windows-Sysmon/Operational" EventCode=1
 
 ![img-description](../assets/black_basta/data_exfiltration_2.png)
 
+Link:
+https://cyberdefenders.org/blueteam-ctf-challenges/black-basta/
+
