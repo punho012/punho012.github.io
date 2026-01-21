@@ -39,8 +39,8 @@ In short, the progression is from raw → contextualized → actionable, and tha
 
 CTI is not just about collecting IOCs - it is much more than that. It is investigation, research, and understanding adversaries. Without these components we are just collecting data - we are not doing real CTI.
 
-Every small datasets can play a crucial role in the larger story. The analyst's job is to connect the dots and reveal the bigger picture. That requires curiosity, enthusiasm, analytical thinking, asking the right questions and a lot of hard work. It is a mindset.
+Every small datasets can play a crucial role in the larger story. The analyst's job is to connect the dots and reveal the bigger picture. That requires curiosity, enthusiasm, analytical thinking, asking the right questions and a lot of hard work. Threat intelligence is not just another 9-to-5 job — it’s a mindset.
 
 It is not easy, but when you do it right, it is a real level up.
 
-That’s enough for today. Next week, I’ll continue with the **Threat Intelligence lifecycle**.
+That’s enough for today. Next week, I’ll continue with the **the 4 types of Threat Intelligence**.

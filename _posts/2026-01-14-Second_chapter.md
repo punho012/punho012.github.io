@@ -80,6 +80,9 @@ It focuses on:
 - Business risk assessments  
 - Security policy decisions
 
+---
+
+
 **Summary Table**
 
 | **Type**    | **Focus**                      | **Audience**          | **Lifespan** | **Example Use** |
