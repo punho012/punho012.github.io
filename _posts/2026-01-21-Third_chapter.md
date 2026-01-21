@@ -1,5 +1,5 @@
 ---
-title: Chapter 3. When intelligence becomes more than just noise and the pyramid of pain
+title: Chapter 3. When intelligence becomes more than just noise
 date: 2026-01-21 +/-TTTT 
 categories: [Blog_series]
 tags: [CTI] # TAG names should always be lowercase
