@@ -1,11 +1,11 @@
 ---
-title: Chapter 2. A Practical Breakdown of Threat Intelligence Types
+title: Phile 2. A Practical Breakdown of Threat Intelligence Types
 date: 2026-01-14 +/-TTTT
 categories: [Blog_series]
 tags: [CTI] # TAG names should always be lowercase
 ---
 
-### The 4 Types of Threat Intelligence
+### Phile 2. A Practical Breakdown of Threat Intelligence Types
 
 Threat intelligence is often talked about as if it were a single thing, but in practice, it comes in different forms and serves different purposes. Not all intelligence answers the same questions, and not all intelligence is useful to the same audience. Understanding the different types of threat intelligence helps ensure that the right information reaches the right people at the right time. Without this distinction, even high-quality intelligence can miss its mark. In this chapter, we’ll break down the main types of threat intelligence and how they’re actually used.
 

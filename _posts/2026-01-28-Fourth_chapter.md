@@ -1,9 +1,12 @@
 ---
-title: Chapter 4. The Threat Intelligence Cycle
+title: Phile 4. The Threat Intelligence Cycle
 date: 2026-01-28 +/-TTTT 
 categories: [Blog_series]
 tags: [CTI] # TAG names should always be lowercase
 ---
+
+
+### Phile 4. The Threat Intelligence Cycle
 
 After discussing the foundations of CTI, we turn toward CTI frameworks, models and practical methodolgies. The first topic is the threat intelligence cycle - the steps we need to make transform raw data into actionable intelligence.
 So let's get started.

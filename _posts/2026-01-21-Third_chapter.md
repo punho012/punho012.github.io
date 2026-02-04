@@ -1,11 +1,11 @@
 ---
-title: Chapter 3. When intelligence becomes more than just noise
+title: Phile 3. When intelligence becomes more than just noise
 date: 2026-01-21 +/-TTTT 
 categories: [Blog_series]
 tags: [CTI] # TAG names should always be lowercase
 ---
 
-### When intelligence becomes more than just noise
+### Phile 3. When intelligence becomes more than just noise
 
 As we discussed in the first chapter CTI is less about collecting indicators and more about asking the right questions. Raw data is not useful, not trustworthy and not valuable. During data collection there are several key questions we should always keep in mind. So Let's dive into the topic.
 

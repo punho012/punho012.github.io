@@ -1,5 +1,5 @@
 ---
-title: Chapter 1. The foundations
+title: Phile 1. The foundations
 date: 2026-01-07 +/-TTTT
 categories: [Blog_series]
 tags: [CTI] # TAG names should always be lowercase
@@ -10,9 +10,9 @@ So, Let's get started.
 
 ---
 
-## Part I. : The Analyst’s View: A Deep Dive into Cyber Threat Intelligence
+## Volume I. : The Analyst’s View: A Deep Dive into Cyber Threat Intelligence
 
-### Chapter 1. The foundations
+### Phile 1. The foundations
 
 Let's start at the beginning: what is Cyber Threat Intelligence? There are plenty of defintions, different organizations and security vendors explain it in different ways. One of the most frequently cited definitions comes from Gartner:
 
