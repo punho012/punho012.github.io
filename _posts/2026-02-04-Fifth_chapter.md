@@ -48,6 +48,8 @@ TTPs represent the peak of the Pyramid of Pain. They describe how attackers thin
 
 Collecting intelligence at the TTP level provides the highest value, as these behaviors are extremely difficult for adversaries to change without significant cost, effort, and operational impact.
 
+---
+
 
 The Pyramid of Pain highlights why not all indicators are created equal. While low-level IOCs are easier to collect, higher-level indicators provide far greater defensive value by forcing adversaries to adapt and expend resources. Understanding where an indicator sits on the pyramid helps analysts focus their efforts on intelligence that truly disrupts attacker operations and strengthens long-term security posture.
 
