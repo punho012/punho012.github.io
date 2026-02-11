@@ -1,6 +1,6 @@
 ---
 title: Phile 6. The Diamond Model
-date: 2026-01-28 +/-TTTT 
+date: 2026-02-11 +/-TTTT 
 categories: [Blog_series]
 tags: [CTI] # TAG names should always be lowercase
 ---
