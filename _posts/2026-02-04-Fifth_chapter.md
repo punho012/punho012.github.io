@@ -1,6 +1,6 @@
 ---
 title: Phile 5. Pyramid of Pain
-date: 2026-01-04 +/-TTTT 
+date: 2026-02-04 +/-TTTT 
 categories: [Blog_series]
 tags: [CTI] # TAG names should always be lowercase
 ---
