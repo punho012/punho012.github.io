@@ -1,6 +1,6 @@
 ---
 title: Phile 9. Competing or Complementary? How the Cyber Kill Chain, MITRE ATT&CK, and the Diamond Model Work Together
-date: 2026-03-03 +/-TTTT
+date: 2026-03-04 +/-TTTT
 categories: [Blog_series]
 tags: [CTI] # TAG names should always be lowercase
 ---
