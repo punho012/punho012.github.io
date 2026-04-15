@@ -1,5 +1,5 @@
 ---
-title: Phile 12. APT Names Don’t Matter - Why TTPs Tell the Real Story
+title: Phile 12. APT Names Don’t Matter and wgy TTPs tell the real story
 date: 2026-03-25 +/-TTTT
 categories: [Blog_series]
 tags: [CTI] # TAG names should always be lowercase
