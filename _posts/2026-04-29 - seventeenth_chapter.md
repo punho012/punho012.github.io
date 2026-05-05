@@ -5,7 +5,7 @@ categories: [Blog_series]
 tags: [CTI] # TAG names should always be lowercase
 ---
 
-After working with frameworks, platforms, and threat actors, we now move one level deeper into how threat intelligence is actually structured and shared in practice. This is where STIX and TAXII come in.
+After working with frameworks, platforms, and threat actors, moving one level deeper into how threat intelligence is actually structured and shared in practice. This is where STIX and TAXII come in.
 
 These two concepts form the backbone of modern threat intelligence exchange between tools, platforms, and organizations.
 
