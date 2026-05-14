@@ -1,6 +1,6 @@
 ---
 title: Phile 18. OSINT Hidden in Plain Sight
-date: 2026-04-06 +/-TTTT
+date: 2026-05-06 +/-TTTT
 categories: [Blog_series]
 tags: [CTI] # TAG names should always be lowercase
 ---
