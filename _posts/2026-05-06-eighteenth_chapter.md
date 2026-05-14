@@ -1,11 +1,11 @@
 ---
-title: Phile 18. OSINT Hidden in Plain Sight
+title: Phile 18. Threat Intelligence Feeds
 date: 2026-05-06 +/-TTTT
 categories: [Blog_series]
 tags: [CTI] # TAG names should always be lowercase
 ---
 
-### Phile 18 
+### Phile 18 Threat Intelligence Feeds
 After discussing OSINT, MISP, OpenCTI, and intelligence-sharing standards, the next logical step is understanding one of the main sources of cyber threat intelligence: threat feeds.
 
 Threat intelligence feeds provide a continuous stream of indicators, reports, and contextual information about cyber threats. They help organizations identify malicious infrastructure, track emerging campaigns, and improve detection capabilities.
