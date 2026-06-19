@@ -23,7 +23,7 @@ The building blocks of this process are the techniques discussed int he previous
 
 The ultimate goal is to identify meaningful relationships across datasets and group them into a structured view of adversary infrastructure.
 Clustering is not a tool, but an analytical thinking. It is the point where individual indicators stop being isolated data points and start forming a coherent story about adversary operations.
-Weak signals become strong evidence when tehy are correlated. 
+Weak signals become strong evidence when they are correlated. 
 
 
 ### From clustering to campaign-level intelligence
@@ -38,7 +38,7 @@ This enables:
 - connecting multiple campaigns to a shared infrastructure cluster
 - supporting higher-confidence attribution hypotheses
 
-However, it is important to distinguish between clustering and attribution. Clustering helps reveal relationships and campaign structure, but final attribution always requires additional contextual and behavioral evidence.
+However, techniques such as fast flux networks and bulletproof hosting further complicate analysis by deliberately obscuring infrastructure relationships, making tracking and correlation significantly more difficult. This is why it is important to distinguish between clustering and attribution. Clustering helps reveal relationships and campaign structure, but final attribution always requires additional contextual and behavioral evidence. 
 
 In practice, this is where CTI shifts from reactive indicator handling to strategic adversary understanding.
 
