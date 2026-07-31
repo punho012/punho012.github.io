@@ -1,0 +1,50 @@
+---
+title: Phile 30. Layers of OPSEC
+date: 2026-07-22
+categories: [Blog_series]
+tags: [CTI] # TAG names should always be lowercase
+---
+
+## Phile 30. Layers of OPSEC
+
+Choosing the appropriate level of operational security is only one part of the equation. In practice, OPSEC should be considered across multiple layers. A weakness in any single layer can undermine the protection provided by the others.
+
+For most users, it is useful to think about three primary layers:
+
+### Hardware
+
+The hardware layer forms the foundation of your security. If an attacker can compromise your device physically or at the firmware level, software-based protections become much less effective.
+
+Examples include:
+
+Trusted hardware
+Secure Boot
+Hardware security modules (such as TPMs)
+Air-gapped devices for highly sensitive information
+
+### Operating System
+
+The operating system determines how securely your applications run and how well your data is protected.
+
+Depending on your threat model, you may choose different operating systems or configurations, such as:
+
+Privacy-focused Linux distributions
+Live operating systems such as Tails
+Hardened operating systems
+Full-disk encryption
+
+### Applications
+
+Applications are the layer users interact with every day. Even a secure operating system can be undermined by insecure software or poor operational practices.
+
+Examples include:
+
+End-to-end encrypted messaging applications
+Privacy-focused web browsers
+Password managers
+VPNs
+Tor Browser
+Secure email providers
+
+### Final Takeaway
+Every layer should support the others. Using privacy-friendly applications on an insecure operating system—or running a secure operating system on compromised hardware—significantly reduces the effectiveness of your overall OPSEC. The strength of your operational security is determined by its weakest layer.
